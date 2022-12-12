@@ -11,31 +11,18 @@ h1 {
 }
 
 .navbar-brand {
-  /* font-family: "Montserrat";
-  font-weight: 900;
-  line-height: 1.5;
-  font-size: 3rem !important; */
-
   font-family:'Ubuntu', sans-serif;
    font-size:2.5rem !important;
    font-weight:bold;
 
-
-
 }
-/* .navbar-font{
 
-  font-family: 'Montserrat', sans-serif;
-  font-size: 2rem;
-  line-height: 1.5;
-} */
 
 .rotate {
   background-color: transparent;
   transform: rotate(25deg);
   padding-top: 8%;
   padding-left: 8%;
-  /* must chnage width and position */
 }
 
 .img-position {
@@ -47,18 +34,19 @@ h1 {
   .rotate {
     background-color: transparent;
     transform: rotate(0deg);
-    /* padding: 2%; */
+    
   }
 
   .img-position {
     position: static;
-    /* width: 70% */
+    
   }
 
   #title {
     background-color: #ff4c68;
     text-align: center;
   }
+
 }
 
 .center {
@@ -80,7 +68,6 @@ h1 {
 #testimonials {
   background-color: #ff4c68;
   text-align: center;
-  /* padding: 7% 15%; */
   color: #fff;
 }
 
